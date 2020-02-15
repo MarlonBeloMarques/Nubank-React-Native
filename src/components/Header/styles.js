@@ -10,7 +10,7 @@ export const Top = styled.View`
     align-items: center;
     margin-bottom: 10px;
 `;
-export const Logo = styled.View`
+export const Logo = styled.Image`
 `;
 
 export const Title = styled.Text`
